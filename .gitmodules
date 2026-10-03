@@ -1,4 +1,4 @@
 [submodule "dartnn-physics"]
 	path = dartnn-physics
 	url = git@github.com:postech-compsec/drone-transfer-learning-model.git
-	branch = main
+	branch = dev
